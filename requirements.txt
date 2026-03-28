@@ -1,0 +1,17 @@
+# ArthSetu AI — Python Dependencies
+# Install with: pip install -r requirements.txt
+# Python 3.9+ required
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0       # Excel read/write
+
+# Machine Learning (local, no internet needed after install)
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# SQLite is built into Python — no install needed
+# No external APIs. No cloud. Fully offline.
